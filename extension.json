@@ -1,6 +1,6 @@
 {
     "name": "anime-trailer",
-    "url": "",
+    "url": "https://raw.githubusercontent.com/notwindstone/anisun-anime-trailer-extension/refs/heads/main/dist/bundle.js",
     "pages": [],
     "version": "1.0",
     "author": "windstone"
