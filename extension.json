@@ -1,5 +1,7 @@
 {
+    "logo": "",
     "name": "anime-trailer",
+    "displayName": "Anime Trailers",
     "url": "https://raw.githubusercontent.com/notwindstone/anisun-anime-trailer-extension/refs/heads/main/dist/bundle.js",
     "pages": [],
     "version": "1.0",
